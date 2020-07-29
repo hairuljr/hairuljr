@@ -13,6 +13,7 @@
 [<img align="left" alt="hairuljr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hairuljr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hairuljr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="hairuljr | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br />
 
@@ -30,4 +31,5 @@
 [website]: https://jrcomp.info/
 [twitter]: https://twitter.com/hairul_januar
 [instagram]: https://instagram.com/hairul_januar
+[whatsapp]: https://wa.me/6289639791889?text=Hi%20Hairul%20
 [linkedin]: https://linkedin.com/in/hairul-j-371894b3
