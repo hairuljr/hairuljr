@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working on remote project!
 - 🌱 I’m currently learning everything 😎
-- 🥅 2021 Goals: Upgrade coding skill and learn JS Frameworks
+- 🥅 2022 Goals: Upgrade coding skill and learn JS Frameworks
 - ❤ Fun fact: I love to learn new things
 
 ### Connect with me:
 
-[<img align="left" alt="jrcompfor.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jrcomp website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="hairuljr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hairuljr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hairuljr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="hairuljr's To Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hairuljr&show_icons=true&hide_border=true&count_private=true&theme=blue-green&layout=compact" />
 
 
-[website]: https://jrcompfor.fun/
+[website]: http://jrcompfor.fun/
 [twitter]: https://twitter.com/hairul_januar
 [instagram]: https://instagram.com/hairul_januar
 [whatsapp]: https://wa.me/6289639791889?text=Hi%20Hairul%20
