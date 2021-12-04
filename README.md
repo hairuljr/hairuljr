@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="hairuljr's To Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hairuljr&show_icons=true&hide_border=true&count_private=true&theme=blue-green&layout=compact" />
 
 
-[website]: http://jrcompfor.fun/
+[website]: https://jrcomp.info
 [twitter]: https://twitter.com/hairul_januar
 [instagram]: https://instagram.com/hairul_januar
 [whatsapp]: https://wa.me/6289639791889?text=Hi%20Hairul%20
